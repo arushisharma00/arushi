@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: About	</title>
-	<atom:link href="/https://arushisharma00.github.io/arushi/about/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://arushisharma00.github.io/arushi</link>
+	<atom:link href="http://arushisharma00.github.io/arushi/about/feed/" rel="self" type="application/rss+xml" />
+	<link>http://arushisharma00.github.io/arushi</link>
 	<description>Learn. Explore. Connect.</description>
 	<lastBuildDate>Mon, 08 Mar 2021 05:21:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

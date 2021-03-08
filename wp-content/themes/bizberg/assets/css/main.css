@@ -11,32 +11,32 @@
 
 @font-face {
     font-family: 'OpenSansRegular';
-    src: url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.eot');
-    src: url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.eot') format('embedded-opentype'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.woff2') format('woff2'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.woff') format('woff'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.ttf') format('truetype'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.svg#OpenSansRegular') format('svg');
+    src: url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.eot');
+    src: url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.eot') format('embedded-opentype'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.woff2') format('woff2'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.woff') format('woff'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.ttf') format('truetype'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/OpenSansRegular.svg#OpenSansRegular') format('svg');
 }
 
 @font-face {
     font-family: 'Aclonica';
-    src: url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.eot');
-    src: url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.eot') format('embedded-opentype'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.woff2') format('woff2'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.woff') format('woff'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.ttf') format('truetype'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.svg#Aclonica') format('svg');
+    src: url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.eot');
+    src: url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.eot') format('embedded-opentype'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.woff2') format('woff2'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.woff') format('woff'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.ttf') format('truetype'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/Aclonica.svg#Aclonica') format('svg');
 }
 
 @font-face {
     font-family: 'MontserratRegular';
-    src: url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.eot');
-    src: url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.eot') format('embedded-opentype'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2') format('woff2'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff') format('woff'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.ttf') format('truetype'),
-         url('/https://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.svg#MontserratRegular') format('svg');
+    src: url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.eot');
+    src: url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.eot') format('embedded-opentype'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff2') format('woff2'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.woff') format('woff'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.ttf') format('truetype'),
+         url('http://arushisharma00.github.io/arushi/wp-content/themes/bizberg/assets/fonts/MontserratRegular.svg#MontserratRegular') format('svg');
 }
 
 

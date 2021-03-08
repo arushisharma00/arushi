@@ -9,8 +9,8 @@
 
 <channel>
 	<title>arushi &#8211; rooshiie</title>
-	<atom:link href="/https://arushisharma00.github.io/arushi/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://arushisharma00.github.io/arushi</link>
+	<atom:link href="http://arushisharma00.github.io/arushi/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://arushisharma00.github.io/arushi</link>
 	<description>Learn. Explore. Connect.</description>
 	<lastBuildDate>Tue, 23 Feb 2021 10:34:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>नमस्कार, I am Arushi.</title>
-		<link>/https://arushisharma00.github.io/arushi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0-i-am-arushi/</link>
-					<comments>/https://arushisharma00.github.io/arushi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0-i-am-arushi/#respond</comments>
+		<link>http://arushisharma00.github.io/arushi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0-i-am-arushi/</link>
+					<comments>http://arushisharma00.github.io/arushi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0-i-am-arushi/#respond</comments>
 		
 		<dc:creator><![CDATA[arushi]]></dc:creator>
 		<pubDate>Tue, 23 Feb 2021 10:04:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://arushisharma00.github.io/arushi/?p=5</guid>
+		<guid isPermaLink="false">http://arushisharma00.github.io/arushi/?p=5</guid>
 
 					<description><![CDATA[also known as Rooshiie. One day at a time.]]></description>
 										<content:encoded><![CDATA[
@@ -38,27 +38,27 @@
 <p>One day at a time. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://arushisharma00.github.io/arushi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0-i-am-arushi/feed/</wfw:commentRss>
+					<wfw:commentRss>http://arushisharma00.github.io/arushi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0-i-am-arushi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/https://arushisharma00.github.io/arushi/hello-world/</link>
-					<comments>/https://arushisharma00.github.io/arushi/hello-world/#comments</comments>
+		<link>http://arushisharma00.github.io/arushi/hello-world/</link>
+					<comments>http://arushisharma00.github.io/arushi/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[arushi]]></dc:creator>
 		<pubDate>Tue, 23 Feb 2021 09:53:20 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://arushisharma00.github.io/arushi/?p=1</guid>
+		<guid isPermaLink="false">http://arushisharma00.github.io/arushi/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://arushisharma00.github.io/arushi/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://arushisharma00.github.io/arushi/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
